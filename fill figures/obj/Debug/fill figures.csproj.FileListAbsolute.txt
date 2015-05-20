@@ -1,0 +1,8 @@
+D:\All here\graf\fill figures\fill figures\bin\Debug\fill figures.exe
+D:\All here\graf\fill figures\fill figures\bin\Debug\fill figures.pdb
+D:\All here\graf\fill figures\fill figures\obj\Debug\fill figures.csprojResolveAssemblyReference.cache
+D:\All here\graf\fill figures\fill figures\obj\Debug\fill_figures.Form1.resources
+D:\All here\graf\fill figures\fill figures\obj\Debug\fill_figures.Properties.Resources.resources
+D:\All here\graf\fill figures\fill figures\obj\Debug\fill figures.csproj.GenerateResource.Cache
+D:\All here\graf\fill figures\fill figures\obj\Debug\fill figures.exe
+D:\All here\graf\fill figures\fill figures\obj\Debug\fill figures.pdb
